@@ -20,4 +20,3 @@ someStack2.variable = 7
 console.log(`The variable on Stack 2 is: ${someStack2.variable}`)
 
 console.log('\nDone.')
-

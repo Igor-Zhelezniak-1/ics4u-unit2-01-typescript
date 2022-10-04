@@ -9,4 +9,3 @@ class Stack {
   variable: number | undefined
 }
 export = Stack
-
