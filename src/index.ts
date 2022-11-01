@@ -3,7 +3,7 @@
  *
  * author  Igor
  * version 1.0
- * since   2020-10-04
+ * since   2022-10-04
  */
 import MyStack from './stack'
 
