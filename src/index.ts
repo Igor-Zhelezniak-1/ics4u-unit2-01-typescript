@@ -1,8 +1,9 @@
 /**
- * This is the standard index.ts starting point.
+ * The program
  *
- * author  Igor
- * version 1.0
+ *
+ * By: Igor Zhelezniak
+ * Version: 1.0
  * since   2022-10-04
  */
 import MyStack from './stack'
