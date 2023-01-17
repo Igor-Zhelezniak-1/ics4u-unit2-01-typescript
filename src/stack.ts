@@ -1,8 +1,10 @@
 /**
  * The stack
- * author  Igor
- * version 1.0
- * since   2022-10-04
+ * 
+ * 
+ * By: Igor Zhelezniak
+ * Version 1.0
+ * Since:  2022-09-17
  */
 
 class Stack {
