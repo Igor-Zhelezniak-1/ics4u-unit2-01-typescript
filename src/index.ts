@@ -23,5 +23,6 @@ console.log(`The variable on Stack 2 is: ${someStack2.variable}`)
 
 const svar1 = prompt('Enter variable(Stack1):')
 const svar2 = prompt('Enter variable(Stack2):')
+stack1(svar1)
 
 console.log('\nDone.')
