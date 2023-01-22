@@ -7,7 +7,11 @@
  * Since:  2022-09-17
  */
 
-class Stack {
+class someStack1 {
   variable: number | undefined
 }
-export = Stack
+class someStack2 {
+  variable: number | undefined
+}
+
+export = MyStack
